@@ -6,6 +6,12 @@ Built for the **StackUp November Coding Challenge** — Theme: *From Words to Wo
 
 ![SnapSpeak result](docs/screenshot-result.png)
 
+## 🎥 Demo video (59 seconds, no audio — on-screen text only)
+
+<video src="docs/demo.mp4" controls width="720"></video>
+
+Direct link: [docs/demo.mp4](docs/demo.mp4) — upload a sample photo, Gemini describes it in English + Bahasa Indonesia, and the Listen buttons read it aloud.
+
 ## ✨ What it does
 
 | Input | Output |
